@@ -17,4 +17,3 @@ FloppyB is a lightweight browser game inspired by the classic *Flappy Bird*. Cli
 - **JavaScript** – game logic and animation  
 - Hosted on **Netlify** with automatic deployment from this repo
 
-Link - https://floppyb.netlify.app/
